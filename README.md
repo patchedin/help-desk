@@ -36,25 +36,25 @@ entry-level IT help desk and desktop support roles.
 
 - Windows Server 2022 VM running in VirtualBox
   
-  ![Windows Server 2022 VM running in VirtualBox](vm.png)
+  ![Windows Server 2022 VM running in VirtualBox](screenshots/vm.png)
 - osTicket installation success page
   
-  ![osTicket installation success page](osTicket_installation.png)
+  ![osTicket installation success page](screenshots/osTicket_installation.png)
 - Creating ticket as user
   
-  ![Creating ticket as user](support.png)
+  ![Creating ticket as user](screenshots/support.png)
 - Staff/agent dashboard
   
-  ![agent dashboard](tickets.png)
+  ![agent dashboard](screenshots/tickets.png)
 - Resolving a ticket
   
-  ![Resolving a ticket](resolved_ticket.png)
+  ![Resolving a ticket](screenshots/resolved_ticket.png)
 - Closed tickets
   
-  ![Closed tickets](closed_tickets.png)
+  ![Closed tickets](screenshots/closed_tickets.png)
 - Creating knowledge base article
   
-  ![Creating knowledge base article](kb_article.png)
+  ![Creating knowledge base article](screenshots/kb_article.png)
 
 ## Tools Used
 
